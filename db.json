@@ -1,0 +1,43 @@
+{
+    "user":[{
+        "id": 1,
+        "name": "Crispimod Luiz Martins",
+        "email": "crispim@live.com"
+    }, {
+        "id": 2,
+        "name": "Tonico",
+        "email": "tonico@enois.com"
+    }, {
+        "id": 3,
+        "name": "Silvio Santos",
+        "email": "silviosantos@gmail.com"
+    }, {
+        "id": 4,
+        "name": "Wednisday",
+        "email": "wend@tamojunto.com"
+    }, {
+        "id": 5,
+        "name": "Pedro Henrique Batista da Silva",
+        "email": "pedro.henrique.batist@gmail.com"
+    }, {
+        "id": 6,
+        "name": "Joana Silva",
+        "email": "jusilva@industrias.com"
+    }, {
+        "id": 7,
+        "name": "Ana Laura Santos",
+        "email": "anasantos@lojamodas.com"
+    }, {
+        "id": 8,
+        "name": "Joarez",
+        "email": "joareizindustriasmobilisticas@gmail.com"
+    }, {
+        "id": 9,
+        "name": "Patricia Abravanel",
+        "email": "vanelpatricia@filhodesilvio.com"
+    }, {
+        "id": 10,
+        "name": "Neymar da Silva Santos",
+        "email": "neypai@gmail.com"
+        }]
+}
